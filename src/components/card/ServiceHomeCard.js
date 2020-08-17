@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import "./CardStyle.css";
+import "../../assets/css/card.css";
 
 export default class ServiceHomeCard extends Component {
   render() {

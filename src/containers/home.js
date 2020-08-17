@@ -1,7 +1,12 @@
 import React, { Component } from "react";
+
+//style css
+import "../assets/css/container.css"
+
+//import component
 // import ControlledCarousel from "../components/Carousel";
 import ServiceHome from "../components/service_home";
-import "./Styles.css"
+
 
 export default class home extends Component {
   render() {

@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import CardService from '../components/card/CardService'
-import "./Styles.css"
+import "../assets/css/container.css"
 
 export default class Service extends Component {
     render() {
