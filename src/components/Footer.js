@@ -19,7 +19,14 @@ export default class Footer extends Component {
             </div>
 
             <div className="col no-gutters">
-              <div className="rightside"></div>
+              <div className="rightside">
+                <h4>CONTACT US</h4>
+                <ul className="list-unstyled">
+                  <li>Address: Gg. Kelinci No.20</li>
+                  <li>Kandang Jaran, Kota Mati</li>
+                  <li>Daerah Khusus Ibu Ibu</li>
+                </ul>
+              </div>
             </div>
           </div>
           {/* <hr /> */}
@@ -37,3 +44,4 @@ export default class Footer extends Component {
     );
   }
 }
+

@@ -1,0 +1,32 @@
+{
+  "data": {
+    "admin": [
+      {
+        "id": "1",
+        "name": "admin",
+        "email": "admin@min.com",
+        "password": "password"
+      },
+      {
+        "id": "2",
+        "name": "saya",
+        "email": "mai@mail.com",
+        "password": "password"
+      },
+      {
+        "id": "3",
+        "name": "saya",
+        "email": "mai@mail.com",
+        "password": "password"
+      }
+    ],
+    "user": [
+      {
+        "id": "1",
+        "name": "nama user",
+        ""
+      }
+    ],
+    "error": null
+  }
+}

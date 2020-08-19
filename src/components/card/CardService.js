@@ -10,8 +10,8 @@ export default class CardService extends Component {
                     <img className="card-avatar" src={this.props.image} alt="ugd"/>
                 </div>
                 <div>
-        <h3 className="title">{this.props.title}</h3>
-        <h5 className="subtitle">{this.props.subtitle}</h5>
+                    <h3 className="title">{this.props.title}</h3>
+                    <h3 className="subtitle">{this.props.subtitle}</h3>
                 </div>
                 </a>
             </div>
